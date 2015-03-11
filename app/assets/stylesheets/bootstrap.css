@@ -1963,6 +1963,7 @@ legend + .control-group {
   float: left;
   width: 160px;
   padding-top: 5px;
+  padding-right: 10px;
   text-align: right;
 }
 

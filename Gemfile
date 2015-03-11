@@ -41,4 +41,6 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 
 gem 'devise', '>= 3.4.0'
+gem 'simple_form', '~> 3.1.0'
+gem 'country_select', '~> 2.1.1'
 
